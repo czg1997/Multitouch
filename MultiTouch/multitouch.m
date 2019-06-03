@@ -2,8 +2,8 @@
 //  main.m
 //  MultiTouch
 //
-//  Created by Gene Dahilig on 5/28/19.
-//  Copyright © 2019 Gene Dahilig. All rights reserved.
+//  Based on code written by Nathan Vander Wilt
+//  https://github.com/calftrail/Touch.
 //
 
 #include <math.h>
@@ -32,14 +32,15 @@ typedef int (*MTContactCallbackFunction)(int,Finger*,int,double,int);
 MTDeviceRef MTDeviceCreateDefault(void);
 void MTRegisterContactFrameCallback(MTDeviceRef, MTContactCallbackFunction);
 void MTDeviceStart(MTDeviceRef, int); // thanks comex
-
+OSStatus MTDeviceGetActualType(MTDeviceRef, int*);
 
 int callback(int device, Finger *data, int nFingers, double timestamp, int frame) {
     for (int i=0; i<nFingers; i++) {
         Finger *f = &data[i];
-        printf("Frame %7d: Angle %6.2f, ellipse %6.3f x%6.3f; "
+        printf("Device: %d Frame %7d: Angle %6.2f, ellipse %6.3f x%6.3f; "
                "position (%6.3f,%6.3f) vel (%6.3f,%6.3f) "
                "ID %d, state %d [%d %d?] size %6.3f, %6.3f?\n",
+               device,
                f->frame,
                f->angle * 90 / atan2(1,0),
                f->majorAxis,

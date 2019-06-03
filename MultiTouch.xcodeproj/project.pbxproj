@@ -7,7 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
-		13BA8A10229E53EA00A42F9D /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = 13BA8A0F229E53EA00A42F9D /* main.m */; };
+		13BA8A10229E53EA00A42F9D /* multitouch.m in Sources */ = {isa = PBXBuildFile; fileRef = 13BA8A0F229E53EA00A42F9D /* multitouch.m */; };
 		13BA8A18229F21A300A42F9D /* MultitouchSupport.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 13BA8A17229F21A300A42F9D /* MultitouchSupport.framework */; };
 /* End PBXBuildFile section */
 
@@ -25,7 +25,7 @@
 
 /* Begin PBXFileReference section */
 		13BA8A0C229E53EA00A42F9D /* MultiTouch */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = MultiTouch; sourceTree = BUILT_PRODUCTS_DIR; };
-		13BA8A0F229E53EA00A42F9D /* main.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = main.m; sourceTree = "<group>"; };
+		13BA8A0F229E53EA00A42F9D /* multitouch.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = multitouch.m; sourceTree = "<group>"; };
 		13BA8A17229F21A300A42F9D /* MultitouchSupport.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = MultitouchSupport.framework; path = ../../../../System/Library/PrivateFrameworks/MultitouchSupport.framework; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
@@ -61,7 +61,7 @@
 		13BA8A0E229E53EA00A42F9D /* MultiTouch */ = {
 			isa = PBXGroup;
 			children = (
-				13BA8A0F229E53EA00A42F9D /* main.m */,
+				13BA8A0F229E53EA00A42F9D /* multitouch.m */,
 			);
 			path = MultiTouch;
 			sourceTree = "<group>";
@@ -130,7 +130,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				13BA8A10229E53EA00A42F9D /* main.m in Sources */,
+				13BA8A10229E53EA00A42F9D /* multitouch.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};

@@ -1,0 +1,283 @@
+*** Recognized (0x81) family*** (30 cols X 22 rows)
+Ctrl-C to abort
+Frame       1: Angle  90.00, ellipse  8.140 x 5.350; position ( 0.473, 0.446) vel ( 0.000, 0.000) ID 4, state 1 [0 1?] size  0.719,  1.070?
+Frame       1: Angle 135.00, ellipse  6.060 x 5.150; position ( 0.610, 0.551) vel ( 0.000, 0.000) ID 10, state 1 [0 1?] size  0.598,  1.387?
+
+Frame       2: Angle  90.00, ellipse  8.380 x 5.450; position ( 0.473, 0.444) vel ( 0.000, 0.000) ID 4, state 3 [3 1?] size  0.840,  1.203?
+Frame       2: Angle  90.00, ellipse  6.150 x 5.230; position ( 0.610, 0.558) vel ( 0.000, 0.000) ID 10, state 3 [4 1?] size  0.637,  1.438?
+
+Frame       3: Angle  90.00, ellipse  8.620 x 5.520; position ( 0.472, 0.442) vel (-0.071,-0.197) ID 4, state 4 [3 1?] size  0.918,  1.270?
+Frame       3: Angle  90.00, ellipse  6.190 x 5.310; position ( 0.610, 0.561) vel ( 0.024, 0.286) ID 10, state 4 [4 1?] size  0.680,  1.516?
+
+Frame       4: Angle  90.00, ellipse  8.840 x 5.560; position ( 0.471, 0.442) vel (-0.083, 0.000) ID 4, state 4 [3 1?] size  0.957,  1.281?
+Frame       4: Angle  90.00, ellipse  6.270 x 5.380; position ( 0.611, 0.561) vel ( 0.059, 0.000) ID 10, state 4 [4 1?] size  0.680,  1.484?
+
+Frame       5: Angle  90.00, ellipse  9.000 x 5.590; position ( 0.470, 0.441) vel (-0.066,-0.032) ID 4, state 4 [3 1?] size  0.957,  1.258?
+Frame       5: Angle  90.00, ellipse  6.350 x 5.420; position ( 0.612, 0.562) vel ( 0.087, 0.081) ID 10, state 4 [4 1?] size  0.680,  1.453?
+
+Frame       6: Angle  90.00, ellipse  9.100 x 5.620; position ( 0.469, 0.441) vel (-0.048,-0.017) ID 4, state 4 [3 1?] size  0.996,  1.293?
+Frame       6: Angle  90.00, ellipse  6.420 x 5.560; position ( 0.614, 0.562) vel ( 0.179, 0.072) ID 10, state 4 [4 1?] size  0.719,  1.512?
+
+Frame       7: Angle  90.00, ellipse  9.260 x 5.650; position ( 0.469, 0.441) vel (-0.035,-0.036) ID 4, state 4 [3 1?] size  1.039,  1.316?
+Frame       7: Angle  90.00, ellipse  6.520 x 5.620; position ( 0.616, 0.563) vel ( 0.227, 0.053) ID 10, state 4 [4 1?] size  0.719,  1.473?
+
+Frame       8: Angle  90.00, ellipse  9.320 x 5.680; position ( 0.469, 0.440) vel (-0.035,-0.053) ID 4, state 4 [3 1?] size  1.078,  1.359?
+Frame       8: Angle  90.00, ellipse  6.590 x 5.650; position ( 0.619, 0.564) vel ( 0.203, 0.072) ID 10, state 4 [2 1?] size  0.719,  1.449?
+
+Frame       9: Angle  90.00, ellipse  9.520 x 5.770; position ( 0.468, 0.439) vel (-0.065,-0.081) ID 4, state 4 [3 1?] size  1.156,  1.422?
+Frame       9: Angle  90.00, ellipse  6.710 x 5.740; position ( 0.620, 0.564) vel ( 0.142, 0.032) ID 10, state 4 [2 1?] size  0.758,  1.484?
+
+Frame      10: Angle  90.00, ellipse  9.660 x 5.850; position ( 0.467, 0.438) vel (-0.071,-0.107) ID 4, state 4 [3 1?] size  1.156,  1.395?
+Frame      10: Angle 135.00, ellipse  6.820 x 5.820; position ( 0.621, 0.564) vel ( 0.095, 0.017) ID 10, state 4 [2 1?] size  0.758,  1.449?
+
+Frame      11: Angle  90.00, ellipse  9.720 x 6.000; position ( 0.466, 0.437) vel (-0.083,-0.107) ID 4, state 4 [3 1?] size  1.156,  1.387?
+Frame      11: Angle 135.00, ellipse  6.870 x 5.790; position ( 0.622, 0.565) vel ( 0.071, 0.017) ID 10, state 4 [2 1?] size  0.758,  1.430?
+
+Frame      12: Angle  90.00, ellipse  9.850 x 6.060; position ( 0.465, 0.436) vel (-0.071,-0.089) ID 4, state 4 [3 1?] size  1.156,  1.352?
+Frame      12: Angle 112.50, ellipse  6.960 x 5.850; position ( 0.623, 0.565) vel ( 0.048, 0.017) ID 10, state 4 [2 1?] size  0.797,  1.473?
+
+Frame      13: Angle  90.00, ellipse  9.920 x 6.140; position ( 0.465, 0.435) vel (-0.054,-0.081) ID 4, state 4 [3 1?] size  1.238,  1.414?
+Frame      13: Angle 135.00, ellipse  6.980 x 5.870; position ( 0.623, 0.565) vel ( 0.044, 0.000) ID 10, state 4 [2 1?] size  0.797,  1.469?
+
+Frame      14: Angle  90.00, ellipse 10.080 x 6.220; position ( 0.464, 0.433) vel (-0.095,-0.125) ID 4, state 4 [3 1?] size  1.277,  1.414?
+Frame      14: Angle 135.00, ellipse  7.020 x 5.940; position ( 0.624, 0.565) vel ( 0.083, 0.036) ID 10, state 4 [2 1?] size  0.797,  1.461?
+
+Frame      15: Angle  90.00, ellipse 10.170 x 6.320; position ( 0.463, 0.432) vel (-0.083,-0.107) ID 4, state 4 [3 1?] size  1.277,  1.375?
+Frame      15: Angle 135.00, ellipse  7.060 x 5.960; position ( 0.625, 0.565) vel ( 0.059, 0.000) ID 10, state 4 [2 1?] size  0.797,  1.445?
+
+Frame      16: Angle  90.00, ellipse 10.170 x 6.320; position ( 0.462, 0.431) vel (-0.083,-0.107) ID 4, state 4 [3 1?] size  1.277,  1.375?
+Frame      16: Angle 135.00, ellipse  7.180 x 6.040; position ( 0.625, 0.565) vel ( 0.048, 0.000) ID 10, state 4 [2 1?] size  0.840,  1.473?
+
+Frame      17: Angle  90.00, ellipse 10.460 x 6.380; position ( 0.461, 0.430) vel (-0.076,-0.115) ID 4, state 4 [3 1?] size  1.316,  1.363?
+Frame      17: Angle 112.50, ellipse  7.200 x 6.020; position ( 0.626, 0.565) vel ( 0.032, 0.016) ID 10, state 4 [2 1?] size  0.797,  1.395?
+
+Frame      18: Angle  90.00, ellipse 10.680 x 6.460; position ( 0.460, 0.428) vel (-0.095,-0.125) ID 4, state 4 [3 1?] size  1.359,  1.359?
+Frame      18: Angle 135.00, ellipse  7.240 x 6.100; position ( 0.626, 0.566) vel ( 0.024, 0.017) ID 10, state 4 [2 1?] size  0.840,  1.434?
+
+Frame      19: Angle  90.00, ellipse 10.800 x 6.600; position ( 0.459, 0.427) vel (-0.095,-0.107) ID 4, state 4 [3 1?] size  1.359,  1.312?
+Frame      19: Angle 135.00, ellipse  7.260 x 6.100; position ( 0.627, 0.566) vel ( 0.048, 0.017) ID 10, state 4 [2 1?] size  0.840,  1.426?
+
+Frame      20: Angle  90.00, ellipse 10.920 x 6.860; position ( 0.458, 0.426) vel (-0.095,-0.107) ID 4, state 4 [3 1?] size  1.359,  1.250?
+Frame      20: Angle 135.00, ellipse  7.320 x 6.200; position ( 0.627, 0.566) vel ( 0.059, 0.053) ID 10, state 4 [2 1?] size  0.840,  1.379?
+
+Frame      21: Angle  90.00, ellipse 11.180 x 6.900; position ( 0.457, 0.425) vel (-0.087,-0.099) ID 4, state 4 [3 1?] size  1.359,  1.211?
+Frame      21: Angle 135.00, ellipse  7.340 x 6.220; position ( 0.628, 0.567) vel ( 0.054, 0.049) ID 10, state 4 [2 1?] size  0.840,  1.371?
+
+Frame      22: Angle  90.00, ellipse 11.050 x 6.820; position ( 0.456, 0.424) vel (-0.071,-0.072) ID 4, state 4 [3 1?] size  1.359,  1.238?
+Frame      22: Angle 135.00, ellipse  7.260 x 6.140; position ( 0.629, 0.568) vel ( 0.071, 0.053) ID 10, state 4 [2 1?] size  0.797,  1.344?
+
+Frame      23: Angle  90.00, ellipse 11.050 x 6.880; position ( 0.455, 0.423) vel (-0.059,-0.053) ID 4, state 4 [3 1?] size  1.359,  1.230?
+Frame      23: Angle 135.00, ellipse  7.260 x 6.160; position ( 0.630, 0.568) vel ( 0.083, 0.036) ID 10, state 4 [2 1?] size  0.840,  1.410?
+
+Frame      24: Angle  90.00, ellipse 10.800 x 6.760; position ( 0.455, 0.423) vel (-0.048,-0.017) ID 4, state 4 [3 1?] size  1.316,  1.238?
+Frame      24: Angle 135.00, ellipse  7.240 x 6.120; position ( 0.631, 0.569) vel ( 0.083, 0.053) ID 10, state 4 [2 1?] size  0.797,  1.355?
+
+Frame      25: Angle  90.00, ellipse 10.920 x 6.720; position ( 0.454, 0.423) vel (-0.032,-0.016) ID 4, state 4 [3 1?] size  1.316,  1.234?
+Frame      25: Angle 135.00, ellipse  7.200 x 6.100; position ( 0.631, 0.569) vel ( 0.065, 0.048) ID 10, state 4 [2 1?] size  0.797,  1.371?
+
+Frame      26: Angle  90.00, ellipse 10.800 x 6.660; position ( 0.454, 0.423) vel (-0.024,-0.017) ID 4, state 4 [3 1?] size  1.316,  1.258?
+Frame      26: Angle 135.00, ellipse  7.160 x 6.060; position ( 0.632, 0.570) vel ( 0.083, 0.036) ID 10, state 4 [2 1?] size  0.797,  1.395?
+
+Frame      27: Angle  90.00, ellipse 10.800 x 6.640; position ( 0.454, 0.423) vel (-0.011, 0.000) ID 4, state 4 [3 1?] size  1.316,  1.266?
+Frame      27: Angle 135.00, ellipse  7.140 x 6.040; position ( 0.633, 0.570) vel ( 0.048, 0.017) ID 10, state 4 [2 1?] size  0.797,  1.410?
+
+Frame      28: Angle  90.00, ellipse 10.680 x 6.600; position ( 0.454, 0.423) vel (-0.011, 0.017) ID 4, state 4 [3 1?] size  1.316,  1.285?
+Frame      28: Angle 135.00, ellipse  7.100 x 6.040; position ( 0.633, 0.570) vel ( 0.048, 0.036) ID 10, state 4 [2 1?] size  0.797,  1.422?
+
+Frame      29: Angle  90.00, ellipse 10.680 x 6.600; position ( 0.454, 0.423) vel ( 0.000, 0.016) ID 4, state 4 [3 1?] size  1.316,  1.285?
+Frame      29: Angle 135.00, ellipse  7.120 x 6.040; position ( 0.634, 0.570) vel ( 0.044, 0.016) ID 10, state 4 [2 1?] size  0.797,  1.414?
+
+Frame      30: Angle  90.00, ellipse 10.680 x 6.580; position ( 0.454, 0.423) vel ( 0.001, 0.000) ID 4, state 4 [3 1?] size  1.316,  1.289?
+Frame      30: Angle 135.00, ellipse  7.120 x 6.020; position ( 0.634, 0.570) vel ( 0.024, 0.000) ID 10, state 4 [2 1?] size  0.797,  1.422?
+
+Frame      31: Angle  90.00, ellipse 10.570 x 6.520; position ( 0.454, 0.423) vel ( 0.000, 0.036) ID 4, state 4 [3 1?] size  1.277,  1.277?
+Frame      31: Angle 135.00, ellipse  7.100 x 6.000; position ( 0.634, 0.571) vel ( 0.011, 0.017) ID 10, state 4 [2 1?] size  0.797,  1.434?
+
+Frame      32: Angle  90.00, ellipse 10.570 x 6.480; position ( 0.454, 0.424) vel (-0.011, 0.036) ID 4, state 4 [3 1?] size  1.277,  1.285?
+Frame      32: Angle 135.00, ellipse  7.120 x 6.000; position ( 0.634, 0.571) vel ( 0.011, 0.000) ID 10, state 4 [2 1?] size  0.840,  1.504?
+
+Frame      33: Angle  90.00, ellipse 10.680 x 6.520; position ( 0.454, 0.424) vel ( 0.001, 0.000) ID 4, state 4 [3 1?] size  1.316,  1.301?
+Frame      33: Angle 135.00, ellipse  7.120 x 6.060; position ( 0.634, 0.571) vel ( 0.011, 0.000) ID 10, state 4 [2 1?] size  0.840,  1.484?
+
+Frame      34: Angle  90.00, ellipse 10.680 x 6.580; position ( 0.454, 0.424) vel ( 0.000, 0.017) ID 4, state 4 [3 1?] size  1.316,  1.289?
+Frame      34: Angle 135.00, ellipse  7.100 x 6.040; position ( 0.634, 0.571) vel ( 0.001, 0.000) ID 10, state 4 [2 1?] size  0.797,  1.422?
+
+Frame      35: Angle  90.00, ellipse 10.570 x 6.540; position ( 0.454, 0.424) vel (-0.011,-0.017) ID 4, state 4 [3 1?] size  1.316,  1.312?
+Frame      35: Angle 135.00, ellipse  7.120 x 6.000; position ( 0.635, 0.571) vel ( 0.011, 0.000) ID 10, state 4 [2 1?] size  0.840,  1.504?
+
+Frame      36: Angle  90.00, ellipse 10.460 x 6.500; position ( 0.453, 0.424) vel (-0.024, 0.017) ID 4, state 4 [3 1?] size  1.277,  1.293?
+Frame      36: Angle 135.00, ellipse  7.100 x 6.000; position ( 0.635, 0.571) vel ( 0.001, 0.000) ID 10, state 4 [2 1?] size  0.840,  1.512?
+
+Frame      37: Angle  90.00, ellipse 10.570 x 6.520; position ( 0.453, 0.424) vel (-0.021,-0.032) ID 4, state 4 [3 1?] size  1.316,  1.316?
+Frame      37: Angle 135.00, ellipse  7.100 x 6.000; position ( 0.635, 0.571) vel ( 0.011, 0.000) ID 10, state 4 [2 1?] size  0.840,  1.512?
+
+Frame      38: Angle  90.00, ellipse 10.570 x 6.480; position ( 0.453, 0.424) vel (-0.024, 0.000) ID 4, state 4 [3 1?] size  1.316,  1.324?
+Frame      38: Angle 135.00, ellipse  7.180 x 6.100; position ( 0.635, 0.571) vel ( 0.000, 0.017) ID 10, state 4 [2 1?] size  0.840,  1.453?
+
+Frame      39: Angle  90.00, ellipse 10.570 x 6.460; position ( 0.452, 0.423) vel (-0.048,-0.017) ID 4, state 4 [3 1?] size  1.316,  1.328?
+Frame      39: Angle 135.00, ellipse  7.160 x 6.120; position ( 0.635, 0.571) vel ( 0.011, 0.000) ID 10, state 4 [2 1?] size  0.840,  1.453?
+
+Frame      40: Angle  90.00, ellipse 10.570 x 6.460; position ( 0.452, 0.423) vel (-0.048,-0.036) ID 4, state 4 [3 1?] size  1.316,  1.328?
+Frame      40: Angle 135.00, ellipse  7.200 x 6.160; position ( 0.635, 0.571) vel ( 0.000, 0.017) ID 10, state 4 [2 1?] size  0.840,  1.426?
+
+Frame      41: Angle  90.00, ellipse 10.680 x 6.540; position ( 0.451, 0.422) vel (-0.065,-0.065) ID 4, state 4 [3 1?] size  1.359,  1.340?
+Frame      41: Angle 135.00, ellipse  7.220 x 6.140; position ( 0.635, 0.571) vel ( 0.001, 0.000) ID 10, state 4 [2 1?] size  0.840,  1.426?
+
+Frame      42: Angle  90.00, ellipse 10.680 x 6.560; position ( 0.450, 0.422) vel (-0.083,-0.072) ID 4, state 4 [3 1?] size  1.316,  1.293?
+Frame      42: Angle 135.00, ellipse  7.240 x 6.140; position ( 0.635, 0.571) vel ( 0.011, 0.036) ID 10, state 4 [2 1?] size  0.840,  1.422?
+
+Frame      43: Angle  90.00, ellipse 10.680 x 6.640; position ( 0.448, 0.420) vel (-0.179,-0.125) ID 4, state 4 [3 1?] size  1.359,  1.316?
+Frame      43: Angle 135.00, ellipse  7.240 x 6.140; position ( 0.635, 0.573) vel ( 0.024, 0.107) ID 10, state 4 [2 1?] size  0.840,  1.422?
+
+Frame      44: Angle  90.00, ellipse 10.460 x 6.680; position ( 0.445, 0.419) vel (-0.274,-0.125) ID 4, state 4 [3 1?] size  1.316,  1.297?
+Frame      44: Angle 135.00, ellipse  7.280 x 6.140; position ( 0.636, 0.574) vel ( 0.059, 0.160) ID 10, state 4 [2 1?] size  0.840,  1.410?
+
+Frame      45: Angle  90.00, ellipse 10.570 x 6.800; position ( 0.441, 0.417) vel (-0.339,-0.164) ID 4, state 4 [3 1?] size  1.316,  1.262?
+Frame      45: Angle 135.00, ellipse  7.340 x 6.220; position ( 0.637, 0.577) vel ( 0.076, 0.247) ID 10, state 4 [2 1?] size  0.840,  1.371?
+
+Frame      46: Angle  90.00, ellipse 10.360 x 6.700; position ( 0.434, 0.414) vel (-0.621,-0.215) ID 4, state 4 [3 1?] size  1.277,  1.266?
+Frame      46: Angle 135.00, ellipse  7.320 x 6.220; position ( 0.639, 0.582) vel ( 0.179, 0.466) ID 10, state 4 [2 1?] size  0.840,  1.375?
+
+Frame      47: Angle  90.00, ellipse 10.360 x 6.780; position ( 0.427, 0.412) vel (-0.657,-0.233) ID 4, state 4 [3 1?] size  1.359,  1.332?
+Frame      47: Angle 135.00, ellipse  7.300 x 6.180; position ( 0.641, 0.588) vel ( 0.238, 0.538) ID 10, state 4 [2 1?] size  0.797,  1.320?
+
+Frame      48: Angle  90.00, ellipse 10.360 x 6.860; position ( 0.421, 0.410) vel (-0.549,-0.179) ID 4, state 4 [3 1?] size  1.359,  1.316?
+Frame      48: Angle 135.00, ellipse  7.340 x 6.220; position ( 0.646, 0.598) vel ( 0.442, 0.897) ID 10, state 4 [2 1?] size  0.840,  1.371?
+
+Frame      49: Angle  90.00, ellipse 10.360 x 6.880; position ( 0.409, 0.406) vel (-0.952,-0.344) ID 4, state 4 [1 1?] size  1.359,  1.312?
+Frame      49: Angle 135.00, ellipse  7.420 x 6.320; position ( 0.652, 0.609) vel ( 0.470, 0.871) ID 10, state 4 [4 1?] size  0.879,  1.383?
+
+Frame      50: Angle 112.50, ellipse 10.460 x 6.900; position ( 0.399, 0.402) vel (-0.919,-0.341) ID 4, state 4 [1 1?] size  1.477,  1.406?
+Frame      50: Angle  90.00, ellipse  7.460 x 6.420; position ( 0.661, 0.624) vel ( 0.836, 1.418) ID 10, state 4 [4 1?] size  0.879,  1.340?
+
+Frame      51: Angle 112.50, ellipse 10.570 x 6.940; position ( 0.389, 0.398) vel (-0.967,-0.394) ID 4, state 4 [1 1?] size  1.520,  1.426?
+Frame      51: Angle 112.50, ellipse  7.480 x 6.460; position ( 0.671, 0.638) vel ( 0.860, 1.273) ID 10, state 4 [5 1?] size  0.879,  1.324?
+
+Frame      52: Angle 112.50, ellipse 10.800 x 7.060; position ( 0.378, 0.392) vel (-0.991,-0.484) ID 4, state 4 [1 1?] size  1.598,  1.441?
+Frame      52: Angle  90.00, ellipse  7.560 x 6.540; position ( 0.678, 0.648) vel ( 0.644, 0.897) ID 10, state 4 [5 1?] size  0.918,  1.344?
+
+Frame      53: Angle 112.50, ellipse 10.800 x 7.100; position ( 0.367, 0.387) vel (-0.941,-0.444) ID 4, state 4 [1 1?] size  1.637,  1.469?
+Frame      53: Angle  90.00, ellipse  7.580 x 6.680; position ( 0.688, 0.662) vel ( 0.832, 1.185) ID 10, state 4 [5 1?] size  0.957,  1.359?
+
+Frame      54: Angle 112.50, ellipse 10.920 x 7.100; position ( 0.355, 0.381) vel (-1.002,-0.574) ID 4, state 4 [1 1?] size  1.637,  1.453?
+Frame      54: Angle  90.00, ellipse  7.560 x 6.780; position ( 0.698, 0.676) vel ( 0.967, 1.220) ID 10, state 4 [5 1?] size  0.957,  1.340?
+
+Frame      55: Angle 112.50, ellipse 11.180 x 7.240; position ( 0.344, 0.374) vel (-1.015,-0.591) ID 4, state 4 [1 1?] size  1.637,  1.395?
+Frame      55: Angle  90.00, ellipse  7.720 x 6.880; position ( 0.709, 0.688) vel ( 0.955, 1.112) ID 10, state 4 [5 1?] size  1.039,  1.395?
+
+Frame      56: Angle 112.50, ellipse 11.180 x 7.340; position ( 0.333, 0.367) vel (-1.026,-0.645) ID 4, state 4 [1 1?] size  1.680,  1.414?
+Frame      56: Angle  90.00, ellipse  7.820 x 6.940; position ( 0.719, 0.700) vel ( 0.943, 1.076) ID 10, state 4 [5 1?] size  1.039,  1.355?
+
+Frame      57: Angle 112.50, ellipse 11.320 x 7.360; position ( 0.321, 0.359) vel (-0.974,-0.658) ID 4, state 4 [1 1?] size  1.680,  1.391?
+Frame      57: Angle  90.00, ellipse  7.920 x 7.120; position ( 0.729, 0.711) vel ( 0.832, 0.921) ID 10, state 4 [5 1?] size  1.039,  1.297?
+
+Frame      58: Angle 112.50, ellipse 11.460 x 7.400; position ( 0.309, 0.350) vel (-1.086,-0.790) ID 4, state 4 [1 1?] size  1.680,  1.371?
+Frame      58: Angle  90.00, ellipse  7.880 x 7.180; position ( 0.739, 0.721) vel ( 0.871, 0.950) ID 10, state 4 [5 1?] size  1.078,  1.336?
+
+Frame      59: Angle 112.50, ellipse 11.610 x 7.460; position ( 0.298, 0.341) vel (-1.075,-0.843) ID 4, state 4 [1 1?] size  1.797,  1.438?
+Frame      59: Angle  90.00, ellipse  7.740 x 6.960; position ( 0.955, 0.571) vel ( 0.000, 0.000) ID 7, state 1 [0 1?] size  0.078,  0.102?
+Frame      59: Angle  90.00, ellipse  7.840 x 7.180; position ( 0.744, 0.728) vel ( 0.501, 0.592) ID 10, state 4 [5 1?] size  1.117,  1.395?
+
+Frame      60: Angle 112.50, ellipse 11.760 x 7.520; position ( 0.286, 0.331) vel (-1.039,-0.897) ID 4, state 4 [1 1?] size  1.879,  1.473?
+Frame      60: Angle  90.00, ellipse  8.040 x 7.180; position ( 0.965, 0.577) vel ( 0.000, 0.000) ID 7, state 2 [5 1?] size  0.117,  0.141?
+Frame      60: Angle  90.00, ellipse  7.800 x 7.240; position ( 0.753, 0.737) vel ( 0.752, 0.861) ID 10, state 4 [4 1?] size  1.117,  1.391?
+
+Frame      61: Angle 112.50, ellipse 11.920 x 7.580; position ( 0.275, 0.321) vel (-0.908,-0.839) ID 4, state 4 [1 1?] size  1.918,  1.473?
+Frame      61: Angle  90.00, ellipse  8.220 x 7.260; position ( 0.972, 0.584) vel ( 0.000, 0.000) ID 7, state 2 [5 1?] size  0.117,  0.137?
+Frame      61: Angle  90.00, ellipse  7.920 x 7.440; position ( 0.760, 0.746) vel ( 0.657, 0.707) ID 10, state 4 [4 1?] size  1.156,  1.371?
+
+Frame      62: Angle 112.50, ellipse 12.080 x 7.640; position ( 0.265, 0.311) vel (-0.955,-0.933) ID 4, state 4 [1 1?] size  1.996,  1.504?
+Frame      62: Angle   0.00, ellipse  8.340 x 7.220; position ( 0.977, 0.589) vel ( 0.000, 0.000) ID 7, state 2 [5 1?] size  0.117,  0.133?
+Frame      62: Angle  90.00, ellipse  8.080 x 7.520; position ( 0.768, 0.754) vel ( 0.716, 0.735) ID 10, state 4 [4 1?] size  1.156,  1.324?
+
+Frame      63: Angle 112.50, ellipse 12.250 x 7.680; position ( 0.255, 0.300) vel (-0.920,-0.950) ID 4, state 4 [1 1?] size  2.078,  1.539?
+Frame      63: Angle   0.00, ellipse  0.000 x 0.000; position ( 0.977, 0.589) vel ( 0.000, 0.000) ID 7, state 7 [0 1?] size  0.000,  0.000?
+Frame      63: Angle  90.00, ellipse  8.220 x 7.460; position ( 0.776, 0.762) vel ( 0.716, 0.700) ID 10, state 4 [5 1?] size  1.238,  1.402?
+
+Frame      64: Angle 135.00, ellipse 12.250 x 7.660; position ( 0.245, 0.290) vel (-0.871,-0.933) ID 4, state 4 [1 1?] size  2.117,  1.570?
+Frame      64: Angle  67.50, ellipse  8.400 x 7.420; position ( 0.784, 0.768) vel ( 0.704, 0.610) ID 10, state 4 [5 1?] size  1.238,  1.379?
+
+Frame      65: Angle 135.00, ellipse 12.420 x 7.760; position ( 0.239, 0.284) vel (-0.493,-0.542) ID 4, state 4 [1 1?] size  2.199,  1.594?
+Frame      65: Angle  90.00, ellipse  8.420 x 7.400; position ( 0.791, 0.774) vel ( 0.623, 0.492) ID 10, state 4 [5 1?] size  1.238,  1.379?
+
+Frame      66: Angle 135.00, ellipse 12.420 x 7.800; position ( 0.231, 0.274) vel (-0.776,-0.897) ID 4, state 4 [1 1?] size  2.238,  1.613?
+Frame      66: Angle  67.50, ellipse  8.540 x 7.460; position ( 0.796, 0.778) vel ( 0.393, 0.305) ID 10, state 4 [5 1?] size  1.277,  1.387?
+
+Frame      67: Angle 135.00, ellipse 12.600 x 7.800; position ( 0.223, 0.264) vel (-0.728,-0.861) ID 4, state 4 [1 1?] size  2.238,  1.594?
+Frame      67: Angle  90.00, ellipse  8.600 x 7.480; position ( 0.802, 0.783) vel ( 0.561, 0.448) ID 10, state 4 [5 1?] size  1.316,  1.414?
+
+Frame      68: Angle 135.00, ellipse 12.600 x 7.840; position ( 0.215, 0.255) vel (-0.668,-0.807) ID 4, state 4 [1 1?] size  2.238,  1.590?
+Frame      68: Angle  90.00, ellipse  8.680 x 7.560; position ( 0.807, 0.787) vel ( 0.477, 0.395) ID 10, state 4 [5 1?] size  1.359,  1.430?
+
+Frame      69: Angle 135.00, ellipse 12.780 x 7.900; position ( 0.208, 0.247) vel (-0.569,-0.691) ID 4, state 4 [1 1?] size  2.238,  1.559?
+Frame      69: Angle  67.50, ellipse  8.800 x 7.600; position ( 0.810, 0.789) vel ( 0.218, 0.196) ID 10, state 4 [5 1?] size  1.359,  1.402?
+
+Frame      70: Angle 135.00, ellipse 12.780 x 7.900; position ( 0.202, 0.239) vel (-0.573,-0.717) ID 4, state 4 [1 1?] size  2.238,  1.559?
+Frame      70: Angle  67.50, ellipse  9.000 x 7.640; position ( 0.816, 0.794) vel ( 0.561, 0.448) ID 10, state 4 [5 1?] size  1.438,  1.438?
+
+Frame      71: Angle 135.00, ellipse 12.970 x 7.920; position ( 0.196, 0.232) vel (-0.549,-0.700) ID 4, state 4 [1 1?] size  2.277,  1.562?
+Frame      71: Angle  67.50, ellipse  9.060 x 7.640; position ( 0.820, 0.798) vel ( 0.322, 0.322) ID 10, state 4 [5 1?] size  1.438,  1.434?
+
+Frame      72: Angle 135.00, ellipse 12.970 x 7.960; position ( 0.190, 0.224) vel (-0.561,-0.700) ID 4, state 4 [1 1?] size  2.277,  1.551?
+Frame      72: Angle  67.50, ellipse  9.160 x 7.640; position ( 0.823, 0.801) vel ( 0.298, 0.305) ID 10, state 4 [5 1?] size  1.477,  1.453?
+
+Frame      73: Angle 135.00, ellipse 12.970 x 7.920; position ( 0.183, 0.216) vel (-0.547,-0.642) ID 4, state 4 [1 1?] size  2.277,  1.562?
+Frame      73: Angle  67.50, ellipse  9.180 x 7.660; position ( 0.824, 0.803) vel ( 0.131, 0.180) ID 10, state 4 [5 1?] size  1.520,  1.488?
+
+Frame      74: Angle 135.00, ellipse 13.160 x 7.940; position ( 0.177, 0.209) vel (-0.597,-0.664) ID 4, state 4 [1 1?] size  2.359,  1.594?
+Frame      74: Angle  67.50, ellipse  9.300 x 7.660; position ( 0.827, 0.806) vel ( 0.238, 0.250) ID 10, state 4 [5 1?] size  1.559,  1.504?
+
+Frame      75: Angle 135.00, ellipse 13.160 x 7.960; position ( 0.170, 0.202) vel (-0.585,-0.610) ID 4, state 4 [1 1?] size  2.398,  1.617?
+Frame      75: Angle  67.50, ellipse  8.720 x 6.200; position ( 0.995, 0.622) vel ( 0.000, 0.000) ID 7, state 1 [0 1?] size  0.117,  0.152?
+Frame      75: Angle  67.50, ellipse  9.450 x 7.720; position ( 0.829, 0.809) vel ( 0.179, 0.250) ID 10, state 4 [5 1?] size  1.598,  1.504?
+
+Frame      76: Angle 135.00, ellipse 13.160 x 7.940; position ( 0.166, 0.198) vel (-0.358,-0.376) ID 4, state 4 [1 1?] size  2.359,  1.594?
+Frame      76: Angle  90.00, ellipse  8.320 x 6.320; position ( 0.997, 0.622) vel ( 0.000, 0.000) ID 7, state 2 [5 1?] size  0.117,  0.156?
+Frame      76: Angle  67.50, ellipse  9.400 x 7.620; position ( 0.831, 0.811) vel ( 0.155, 0.215) ID 10, state 4 [4 1?] size  1.559,  1.496?
+
+Frame      77: Angle 135.00, ellipse 13.160 x 7.920; position ( 0.161, 0.192) vel (-0.470,-0.494) ID 4, state 4 [1 1?] size  2.438,  1.652?
+Frame      77: Angle  90.00, ellipse  8.360 x 6.440; position ( 0.996, 0.621) vel ( 0.000, 0.000) ID 7, state 2 [5 1?] size  0.117,  0.152?
+Frame      77: Angle  67.50, ellipse  9.400 x 7.580; position ( 0.832, 0.813) vel ( 0.099, 0.164) ID 10, state 4 [4 1?] size  1.559,  1.504?
+
+Frame      78: Angle 135.00, ellipse 13.160 x 7.900; position ( 0.158, 0.189) vel (-0.263,-0.250) ID 4, state 4 [1 1?] size  2.398,  1.625?
+Frame      78: Angle  90.00, ellipse  0.000 x 0.000; position ( 0.996, 0.621) vel ( 0.000, 0.000) ID 7, state 7 [0 1?] size  0.000,  0.000?
+Frame      78: Angle  67.50, ellipse  9.450 x 7.600; position ( 0.833, 0.815) vel ( 0.095, 0.143) ID 10, state 4 [5 1?] size  1.559,  1.492?
+
+Frame      79: Angle 135.00, ellipse 13.160 x 7.880; position ( 0.154, 0.185) vel (-0.382,-0.358) ID 4, state 4 [1 1?] size  2.398,  1.629?
+Frame      79: Angle  67.50, ellipse  9.400 x 7.560; position ( 0.834, 0.816) vel ( 0.071, 0.107) ID 10, state 4 [5 1?] size  1.559,  1.512?
+
+Frame      80: Angle 135.00, ellipse 12.970 x 7.800; position ( 0.150, 0.182) vel (-0.322,-0.269) ID 4, state 4 [1 1?] size  2.359,  1.641?
+Frame      80: Angle  67.50, ellipse  9.340 x 7.520; position ( 0.834, 0.817) vel ( 0.059, 0.089) ID 10, state 4 [5 1?] size  1.520,  1.488?
+
+Frame      81: Angle 135.00, ellipse 12.970 x 7.780; position ( 0.147, 0.180) vel (-0.229,-0.196) ID 4, state 4 [1 1?] size  2.316,  1.613?
+Frame      81: Angle  67.50, ellipse  9.280 x 7.460; position ( 0.835, 0.818) vel ( 0.021, 0.065) ID 10, state 4 [5 1?] size  1.477,  1.469?
+
+Frame      82: Angle 135.00, ellipse 12.970 x 7.720; position ( 0.145, 0.178) vel (-0.214,-0.143) ID 4, state 4 [1 1?] size  2.238,  1.570?
+Frame      82: Angle  67.50, ellipse  9.200 x 7.420; position ( 0.835, 0.818) vel ( 0.011, 0.036) ID 10, state 4 [5 1?] size  1.477,  1.488?
+
+Frame      83: Angle 135.00, ellipse 12.780 x 7.720; position ( 0.143, 0.177) vel (-0.167,-0.143) ID 4, state 4 [1 1?] size  2.238,  1.590?
+Frame      83: Angle  67.50, ellipse  9.220 x 7.420; position ( 0.835, 0.819) vel ( 0.011, 0.036) ID 10, state 4 [5 1?] size  1.477,  1.484?
+
+Frame      84: Angle 135.00, ellipse 12.780 x 7.680; position ( 0.141, 0.176) vel (-0.155,-0.107) ID 4, state 4 [1 1?] size  2.199,  1.570?
+Frame      84: Angle  67.50, ellipse  9.180 x 7.380; position ( 0.835, 0.819) vel ( 0.001, 0.000) ID 10, state 4 [5 1?] size  1.438,  1.461?
+
+Frame      85: Angle 135.00, ellipse 12.780 x 7.700; position ( 0.140, 0.174) vel (-0.120,-0.115) ID 4, state 4 [1 1?] size  2.156,  1.535?
+Frame      85: Angle  45.00, ellipse  9.280 x 7.440; position ( 0.835, 0.819) vel ( 0.000, 0.016) ID 10, state 4 [5 1?] size  1.477,  1.477?
+
+Frame      86: Angle 135.00, ellipse 12.780 x 7.720; position ( 0.139, 0.173) vel (-0.119,-0.107) ID 4, state 4 [1 1?] size  2.078,  1.473?
+Frame      86: Angle  45.00, ellipse  9.400 x 7.560; position ( 0.835, 0.819) vel ( 0.011, 0.000) ID 10, state 4 [5 1?] size  1.477,  1.430?
+
+Frame      87: Angle 135.00, ellipse 12.780 x 7.800; position ( 0.138, 0.172) vel (-0.083,-0.125) ID 4, state 4 [1 1?] size  1.918,  1.348?
+Frame      87: Angle  45.00, ellipse  9.360 x 7.660; position ( 0.835, 0.818) vel ( 0.011,-0.036) ID 10, state 4 [5 1?] size  1.277,  1.227?
+
+Frame      88: Angle 135.00, ellipse 12.600 x 7.860; position ( 0.137, 0.170) vel (-0.083,-0.160) ID 4, state 4 [1 1?] size  1.316,  0.930?
+Frame      88: Angle  45.00, ellipse  9.120 x 7.600; position ( 0.836, 0.818) vel ( 0.071,-0.072) ID 10, state 4 [5 1?] size  0.719,  0.715?
+
+Frame      89: Angle 135.00, ellipse 12.970 x 8.360; position ( 0.136, 0.168) vel (-0.054,-0.147) ID 4, state 5 [1 1?] size  0.398,  0.258?
+Frame      89: Angle  67.50, ellipse  9.560 x 7.920; position ( 0.837, 0.816) vel ( 0.099,-0.099) ID 10, state 5 [5 1?] size  0.238,  0.215?
+
+Frame      90: Angle 135.00, ellipse  0.000 x 0.000; position ( 0.136, 0.168) vel ( 0.000, 0.000) ID 4, state 7 [1 1?] size  0.000,  0.000?
+Frame      90: Angle  67.50, ellipse  0.000 x 0.000; position ( 0.837, 0.816) vel ( 0.000, 0.000) ID 10, state 7 [5 1?] size  0.000,  0.000?
+
+
+Program ended with exit code: 9
